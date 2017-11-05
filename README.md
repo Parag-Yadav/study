@@ -14,4 +14,4 @@ git add FILENAME1 FILENAME2 ...
 git commit -m 'INFO MESSAGE'
 
 # Pushing changes to github
-git push
+git push origin BRANCH_NAME
